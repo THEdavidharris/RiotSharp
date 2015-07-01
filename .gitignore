@@ -3,6 +3,6 @@ obj/
 *.suo
 /TestResults
 *.nupkg
-RiotSharpExample/App.config
-RiotSharpTest/App.config
-WinrateTest/App.config
+/RiotSharpExample/App.config
+/RiotSharpTest/App.config
+/WinrateTest/App.config
